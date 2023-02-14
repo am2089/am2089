@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Andrew!
-- 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning Swift/SwiftUI
+- 👀 I’m am an iOS Developer
 - 💞️ I’m looking to collaborate on open source swift projects
 - 📫 How to reach me andrewjosephmuniz@gmail.com
 
