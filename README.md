@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrew!
 - 👀 I’m am an iOS Developer
-- 💞️ I’m looking to collaborate on open-source Swift projects
+- 💞️ Two apps released on the App store. Open source contributor.
 - 📫 How to reach me andrewjosephmuniz@gmail.com
 
 <!---
