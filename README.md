@@ -1,15 +1,18 @@
-👋 Hi, I’m Andrew — a Computer Science student and self-taught developer with a passion for building across the stack, from backend systems to mobile and embedded projects.  
+👋 Hi, I’m Andrew — a Software Engineering student and self-taught developer focused on mobile and game development. I’ve built and released several iOS apps on the App Store, and lately I’ve been diving deeper into gameplay programming with Unity and C#.
 
-💻 I enjoy designing **data-driven applications** (SQL/PostgreSQL, APIs, backend services) and experimenting with **embedded systems** (STM32, ESP32, FreeRTOS) as well as **mobile development** (Swift, iOS).  
 
-🚀 Current focus:  
-- Strengthening backend skills with Java, SQL, and REST API projects  
-- Learning real-time embedded development with STM32 + FreeRTOS  
-- Publishing personal projects that show creativity and problem-solving  
+🚀 Current focus:
 
-📂 Here you’ll find a mix of:  
-- **Backend projects**: SQL reporting pipelines, API integrations  
-- **Embedded systems**: Robotics and real-time control systems  
-- **iOS apps**: From audio processing to news apps  
+Building out my game dev skills through Unity projects
 
-⚡ I like working on projects that are hands-on, interactive, and solve real-world problems.  
+Continuing to develop and publish iOS apps
+
+Strengthening my software engineering foundations in school
+
+📂 Here you’ll find:
+
+Unity gameplay experiments 
+
+Published iOS apps and work-in-progress prototypes
+
+
