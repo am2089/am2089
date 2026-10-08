@@ -1,18 +1,4 @@
-👋 Hi, I’m Andrew — a Software Engineering student and self-taught developer focused on mobile and game development. I’ve built and released several iOS apps on the App Store, and lately I’ve been diving deeper into gameplay programming with Unity and C#.
-
-
-🚀 Current focus:
-
-Building out my game dev skills through Unity projects
-
-Continuing to develop and publish iOS apps
-
-Strengthening my software engineering foundations in school
-
-📂 Here you’ll find:
-
-Unity gameplay experiments 
-
-Published iOS apps and work-in-progress prototypes
-
-
+Hi, I’m Andrew, a software engineering student at Western Governors University transitioning from hospitality into tech.
+I build iOS apps with Swift and SwiftUI, including two apps published on the App Store. My projects include a Muay Thai training app, a health journal, and an iOS app that controls an ESP32 robot car over Bluetooth.
+I’m interested in mobile development, interactive software, and projects that connect software with the physical world.
+I’m currently finishing my degree and looking for an early-career software engineering role in New York City.
